@@ -6,7 +6,7 @@ Joined CAMPFIRE Inc. in 2019 as a lead engineer for the CAMPFIRE app, responsibl
 
 In April 2022, he founded ONE, Inc. and is currently developing Web3Social apps.
 
-## job
+## Job
 - [@0x1-company](https://github.com/0x1-company)
 - [@campfire-inc](https://github.com/campfire-inc)
 
