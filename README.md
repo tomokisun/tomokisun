@@ -1,6 +1,6 @@
 # tomokisun
 
-(Born in 2002) I started my career as a software engineer in 2018, working on app development in contract companies and startups. 
+I started my career as a software engineer in 2018, working on app development in contract companies and startups. 
 
 Joined CAMPFIRE Inc. in 2019 as a lead engineer for the CAMPFIRE app, responsible for backend/iOS/Android development. Retired in July 2022.
 
