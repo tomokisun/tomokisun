@@ -4,7 +4,7 @@ I started my career as a software engineer in 2018, working on app development i
 
 Joined CAMPFIRE Inc. in 2019 as a lead engineer for the CAMPFIRE app, responsible for backend/iOS/Android development. Retired in July 2022.
 
-In April 2022, he founded ONE, Inc. and is currently developing Web3Social apps.
+In April 2022, he founded ONE, Inc. and is currently developing Web3 Social apps.
 
 ## Job
 - [@0x1-company](https://github.com/0x1-company)
