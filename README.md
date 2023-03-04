@@ -2,8 +2,6 @@
 
 I'm originally an iOS engineer, but now I do everything mobile, web, backend, blockchain, etc.
 
-
-
 I'm not good at infrastructure layer though lol.
 
 
@@ -16,9 +14,7 @@ I'm not good at infrastructure layer though lol.
 
 It is one of the largest crowdfunding sites in Japan.
 
-
 Responsible for mobile app launch.
-
 
 During the startup phase, 3 engineers were in charge, but after that, I was in charge of all development including iOS, Android, API Server, etc. almost by myself.
 
@@ -32,3 +28,5 @@ Feel free to reach out!
 
 - [Twitter](https://twitter.com/tomokisun)
 - [LinkedIn](https://www.linkedin.com/in/tomokisun/)
+
+
