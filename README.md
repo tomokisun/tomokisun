@@ -1,24 +1,18 @@
-# tomokisun
+I'm originally an iOS engineer, but now I do everything mobile, web, blockchain, etc.<br>
+I'm not good at infrastructure layer though lol.
 
-I started my career as a software engineer in 2018, working on app development in contract companies and startups. 
+## 🚀 Job
+### [CAMPFIRE](https://camp-fire.jp)
+It is one of the largest crowdfunding sites in Japan.<br>
+Responsible for mobile app launch.<br>
+During the startup phase, 3 engineers were in charge, but after that, I was in charge of all development including iOS, Android, API Server, etc. almost by myself.
 
-Joined CAMPFIRE Inc. in 2019 as a lead engineer for the CAMPFIRE app, responsible for backend/iOS/Android development. Retired in July 2022.
+### [ONE](https://github.com/0x1-company)
 
-In April 2022, he founded ONE, Inc. and is currently developing Web3 Social apps.
+I co-founded this company with a friend to develop Web3 social mobile apps.
 
-## Job
-- [@0x1-company](https://github.com/0x1-company)
-- [@campfire-inc](https://github.com/campfire-inc)
 
-## Dev
-- [@dcnsdomains](https://github.com/dcnsdomains)
-- [nererun](https://github.com/0x1-company/nererun)
-- [0z.is](https://github.com/0x1-company/0z.is)
-
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomokisun&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=tomokisun&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-</p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=tomokisun&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
+## 📫 Contact
+Feel free to reach out!
+- [Twitter](https://twitter.com/tomokisun)
+- [LinkedIn](https://www.linkedin.com/in/tomokisun/)
