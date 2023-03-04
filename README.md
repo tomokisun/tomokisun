@@ -4,7 +4,9 @@ I'm originally an iOS engineer, but now I do everything mobile, web, blockchain,
 I'm not good at infrastructure layer though lol.
 
 ## 🚀 Job
-### [CAMPFIRE](https://camp-fire.jp)
+
+### [CAMPFIRE](https://camp-fire.jp/)
+
 It is one of the largest crowdfunding sites in Japan.<br>
 Responsible for mobile app launch.<br>
 During the startup phase, 3 engineers were in charge, but after that, I was in charge of all development including iOS, Android, API Server, etc. almost by myself.
@@ -13,8 +15,9 @@ During the startup phase, 3 engineers were in charge, but after that, I was in c
 
 I co-founded this company with a friend to develop Web3 social mobile apps.
 
-
 ## 📫 Contact
+
 Feel free to reach out!
+
 - [Twitter](https://twitter.com/tomokisun)
 - [LinkedIn](https://www.linkedin.com/in/tomokisun/)
