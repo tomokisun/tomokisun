@@ -13,6 +13,7 @@
 ## Dev
 
 - GitHub: [tomokisun](https://github.com/tomokisun)
+- npm: [tomoki_sun](https://www.npmjs.com/~tomoki_sun)
 
 ## Web3
 
