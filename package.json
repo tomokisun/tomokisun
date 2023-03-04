@@ -1,0 +1,18 @@
+{
+  "name": "tomokisun",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://tomokisun.xyz",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomokisun/tomokisun.git"
+  },
+  "author": "tomokisun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomokisun/tomokisun/issues"
+  },
+  "dependencies": {
+    "notion2md": "^1.1.0"
+  }
+}
