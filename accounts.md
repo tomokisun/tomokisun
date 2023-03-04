@@ -1,5 +1,3 @@
-# Accounts
-
 ## Social
 
 - Email: [tomoki69386@gmail.com](mailto:tomoki69386@gmail.com)
