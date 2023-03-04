@@ -1,5 +1,3 @@
-## 😺 tomokisun
-
 I'm originally an iOS engineer, but now I do everything mobile, web, blockchain, etc.<br>
 I'm not good at infrastructure layer though lol.
 
