@@ -1,21 +1,19 @@
-# Products
-
-## CalculatorMultiple
+## ✖️CalculatorMultiple
 
 When the device is truned sideways, there are three calculators, You can use this if you need several calculations at the same time.
 
-## Blackjack Counting
+## 🃏Blackjack Counting
 
 With this app, anyone can count blackjack easily!
 
-## Super NFT Products(acq: GMO Pepabo, Inc.)
+## 🎁Super NFT Products(acq: GMO Pepabo, Inc.)
 
 A service that allow you to purchase original NFT goods that you own.
 
-## nererun
+## 👶🏻nererun
 
 A service that allows you to read to your children to help them sleep, specializing in tucking them in
 
-## PokerONE(acq: deck, Inc.)
+## 🎰PokerONE(acq: deck, Inc.)
 
 A service that allows you to easily search for amusement casino tournaments.
