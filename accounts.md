@@ -7,6 +7,8 @@
 - Twitter: [tomokisun](https://twitter.com/tomokisun)
 - Discord: [tomokisun#1557](https://discord.com/users/394676635909095424)
 - Telegram: [tomokisun](https://t.me/tomokisun)
+- Bondee: [tomokisun](https://short.bondee.cc/3qJmFrgHyRk)
+- ZEPETO: [tomokisun](https://web.zepeto.me/share/user/profile/tomokisun)
 
 ## Dev
 
@@ -15,10 +17,12 @@
 ## Web3
 
 - Ethereum: [tomokisun.eth](https://tomokisun.eth.xyz/)
+- Superlocal: [tomokisun](https://link.superlocal.com/QiRFUUNA6wb)
 
 ## Movie
 
 - YouTube: [seedboys](http://seedboys.jp/)
+- TikTok: [tomoki_sun](https://www.tiktok.com/@tomoki_sun)
 
 ## Music
 
@@ -29,3 +33,4 @@
 
 - Medium: [tomokisun](https://medium.com/@tomokisun)
 - note: [tomokisun](https://note.com/tomoki_sun)
+- Qiita: [tomoki_sun](https://qiita.com/tomoki_sun)
