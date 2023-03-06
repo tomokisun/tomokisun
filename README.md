@@ -10,7 +10,7 @@ I'm not good at infrastructure layer though lol.
 
 ## 🚀 Job
 
-### [CAMPFIRE](https://camp-fire.jp/)
+### [CAMPFIRE, Inc.](https://camp-fire.jp/) - prev
 
 It is one of the largest crowdfunding sites in Japan.
 
@@ -18,7 +18,7 @@ Responsible for mobile app launch.
 
 During the startup phase, 3 engineers were in charge, but after that, I was in charge of all development including iOS, Android, API Server, etc. almost by myself.
 
-### [ONE](https://github.com/0x1-company)
+### [ONE, Inc.](https://github.com/0x1-company) - now
 
 I co-founded this company with a friend to develop Web3 social mobile apps.
 
