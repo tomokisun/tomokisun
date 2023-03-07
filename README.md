@@ -6,7 +6,7 @@ I'm not good at infrastructure layer though lol.
 
 
 
-[personal web site 👀](https://tomokisun.xyz/)
+[personal web site 👀](https://tomokisun.com)
 
 ## 🚀 Job
 
