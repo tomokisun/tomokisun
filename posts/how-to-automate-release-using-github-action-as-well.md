@@ -28,3 +28,5 @@ jobs:
 ## ❌ Resource not accessible by integration
 
 The problem was solved by changing the `Settings > Actions > General > Workflow permissions` for the repository in question from `Read repository contents permission` to `Read and write permissions`
+
+<img width="1193" alt="image" src="https://user-images.githubusercontent.com/28350464/223349671-07017ede-5131-47e8-ad0d-7a8f092ec696.png">
