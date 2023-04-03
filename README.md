@@ -1,5 +1,7 @@
 ## 😺 tomokisun
 
+core-developer for [@caaaption](https://github.com/caaaption)
+
 I'm originally an iOS engineer, but now I do everything mobile, web, backend, blockchain, etc.
 
 I'm not good at infrastructure layer though lol.
