@@ -26,7 +26,7 @@ I co-founded this company with a friend to develop Web3 social mobile apps.
 
 ## 👨🏻‍💻 Dev
 
-- [@caaaption](https://github.com/caaaption) - we are building social wallet specialized in identity
+- [@caaaption](https://github.com/caaaption) - We are building social wallet specialized in identity
 - [@dcnsdomains](https://github.com/dcnsdomains) - Your web3 username on Dogechain Decentralised naming for wallets, websites.
 - [tomokisun/Daily_App](https://github.com/tomokisun/Daily_App) - We made one fucking app a day for 90 days starting January 26, 2019.
 - [0x1company/nererun](https://github.com/0x1-company/nererun) - Open source voice application for children built in Flutter and Firebase.
