@@ -6,8 +6,6 @@ I'm originally an iOS engineer, but now I do everything mobile, web, backend, bl
 
 I'm not good at infrastructure layer though lol.
 
-
-
 [personal web site 👀](https://tomokisun.com)
 
 ## 🚀 Job
@@ -26,15 +24,11 @@ I co-founded this company with a friend to develop Web3 social mobile apps.
 
 ## 👨🏻‍💻 Dev
 
-- [@caaaption](https://github.com/caaaption) - We are building social wallet specialized in identity
+- [@caaaption](https://github.com/caaaption) - Get real-time dApps information on iPhone widgets.
 - [@dcnsdomains](https://github.com/dcnsdomains) - Your web3 username on Dogechain Decentralised naming for wallets, websites.
 - [tomokisun/Daily_App](https://github.com/tomokisun/Daily_App) - We made one fucking app a day for 90 days starting January 26, 2019.
 - [0x1company/nererun](https://github.com/0x1-company/nererun) - Open source voice application for children built in Flutter and Firebase.
 - [tomokisun/tomokisun](https://github.com/tomokisun/tomokisun) - tomokisun's personal website.
-- [0x1-company/0z.is](https://github.com/0x1-company/0z.is) - 0z.is redirects to URL registered with ENS.
-- [tomokisun/AppStoreReviewParser](https://github.com/tomokisun/AppStoreReviewParser) - A tool to save AppStore reviews in CSV format.
-- [tomokisun/TwitterAlert](https://github.com/tomokisun/TwitterAlert) - Alert of Twitter iOS Application.
-- [tomokisun/NetworkDebugViewer](https://github.com/tomokisun/NetworkDebugViewer) - Library that provides a view to view API communication information for Swift.
 
 ## 📫 Contact
 
