@@ -18,7 +18,9 @@ During the startup phase, 3 engineers were in charge, but after that, I was in c
 
 ### [ONE, Inc.](https://github.com/0x1-company) - now
 
-I co-founded this company with a friend to develop social mobile apps.
+I co-founded this company with a friend.
+
+Now develop next students only social mobile app.
 
 - https://0x1.company
 - https://github.com/0x1-company
