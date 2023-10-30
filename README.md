@@ -20,13 +20,14 @@ During the startup phase, 3 engineers were in charge, but after that, I was in c
 
 I co-founded this company with a friend.
 
-Now develop next students only social mobile app.
+Currently developing a social mobile app for teens.
 
-- https://0x1.company
-- https://github.com/0x1-company
+- [https://0x1.company](https://0x1.company)
+- [https://github.com/0x1-company](https://github.com/0x1-company)
 
 ## 👨🏻‍💻 Dev
 
+- [0x1company/god-ios](https://github.com/0x1-company/god-ios) - Social mobile app for teens.
 - [@caaaption](https://github.com/caaaption) - Get timely onchain information on your Home Screen with iPhone Widgets.
 - [@dcnsdomains](https://github.com/dcnsdomains) - Your web3 username on Dogechain Decentralised naming for wallets, websites.
 - [tomokisun/Daily_App](https://github.com/tomokisun/Daily_App) - We made one fucking app a day for 90 days starting January 26, 2019.
@@ -36,8 +37,8 @@ Now develop next students only social mobile app.
 
 Feel free to reach out!
 
-- [Twitter(JA)](https://twitter.com/tomoki_sun)
-- [Twitter(EN)](https://twitter.com/tomokisun)
+- [Twitter(ja)](https://twitter.com/tomoki_sun)
+- [Twitter(en)](https://twitter.com/tomokisun)
 - [LinkedIn](https://www.linkedin.com/in/tomokisun)
 
 
