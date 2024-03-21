@@ -27,7 +27,8 @@ Currently developing a social mobile app for teens.
 
 ## 👨🏻‍💻 Dev
 
-- [0x1company/god-ios](https://github.com/0x1-company/god-ios) - Social mobile app for teens.
+- [0x1company/god-ios](https://github.com/0x1-company/ios-monorepo) - Social mobile app for teens.
+- [0x1company/god-ios](https://github.com/0x1-company/god-ios) - See who likes you
 - [@caaaption](https://github.com/caaaption) - Get timely onchain information on your Home Screen with iPhone Widgets.
 - [@dcnsdomains](https://github.com/dcnsdomains) - Your web3 username on Dogechain Decentralised naming for wallets, websites.
 - [tomokisun/Daily_App](https://github.com/tomokisun/Daily_App) - We made one fucking app a day for 90 days starting January 26, 2019.
