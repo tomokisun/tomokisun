@@ -38,8 +38,7 @@ Currently developing a social mobile app for teens.
 
 Feel free to reach out!
 
-- [Twitter(ja)](https://twitter.com/tomokisun)
-- [Twitter(en)](https://twitter.com/tomoki_sun)
+- [Twitter](https://twitter.com/tomokisun)
 - [LinkedIn](https://www.linkedin.com/in/tomokisun)
 
 
